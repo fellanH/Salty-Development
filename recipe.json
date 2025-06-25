@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "layers": {
+    "beaches": {
+      "source": "mapbox://tileset-source/felixhellstrom/location-beaches",
+      "minzoom": 8,
+      "maxzoom": 16
+    },
+    "regions": {
+      "source": "mapbox://tileset-source/felixhellstrom/location-beaches",
+      "minzoom": 4,
+      "maxzoom": 7,
+      "features": {
+        "group_by": "location-cluster",
+        "properties": {
+          "name": ["get", "location-cluster"],
+          "point_count": ["+", ["coalesce", ["get", "point_count"], 0], 1]
+        }
+      }
+    },
+    "states": {
+      "source": "mapbox://tileset-source/felixhellstrom/location-beaches",
+      "minzoom": 0,
+      "maxzoom": 3,
+      "features": {
+        "group_by": "State",
+        "properties": {
+          "name": ["get", "State"],
+          "point_count": ["+", ["coalesce", ["get", "point_count"], 0], 1]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "levels": [
+    {
+      "id": "states",
+      "name": "States",
+      "minZoom": 1,
+      "maxZoom": 4,
+      "grouping": {
+        "type": "property",
+        "key": "State"
+      },
+      "paint": {
+        "circle-color": "#51bbd6",
+        "circle-radius": 20
+      }
+    },
+    {
+      "id": "regions",
+      "name": "Regions",
+      "minZoom": 4,
+      "maxZoom": 6,
+      "grouping": {
+        "type": "property",
+        "key": "Location Cluster"
+      },
+      "customZooms": {
+        "los-angeles": 8,
+        "san-francisco": 9,
+        "honolulu": 9
+      },
+      "paint": {
+        "circle-color": "#f1f075",
+        "circle-radius": 18
+      }
+    },
+    {
+      "id": "beaches",
+      "name": "Individual Beaches",
+      "minZoom": 6,
+      "maxZoom": 22,
+      "grouping": {
+        "type": "none"
+      },
+      "paint": {
+        "circle-color": "#11b4da",
+        "circle-radius": 6
+      }
+    }
+  ]
+} 

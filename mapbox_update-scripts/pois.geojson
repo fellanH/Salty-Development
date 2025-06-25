@@ -1,0 +1,2955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02429678,
+          36.96220071
+        ]
+      },
+      "properties": {
+        "Name": "Aquarius",
+        "Slug": "santa-cruz-beach-aquarius",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df90ca9337462b0f937ad1",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:40:42 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:40:42 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:40:42 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02429678",
+        "Latitude": "36.96220071",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01566766,
+          36.96443876
+        ]
+      },
+      "properties": {
+        "Name": "Barnacle Bill's",
+        "Slug": "barnacle-bills",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06f8d518a5eccabe295f5",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:31:09 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:31:09 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:31:09 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01566766",
+        "Latitude": "36.96443876",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02043066,
+          36.9642151
+        ]
+      },
+      "properties": {
+        "Name": "Beach Street Cafe",
+        "Slug": "santa-cruz-beach-beach-street-cafe",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06ebe412876c81cd12593",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:27:42 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:27:42 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:27:42 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02043066",
+        "Latitude": "36.9642151",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01928615,
+          36.96519169
+        ]
+      },
+      "properties": {
+        "Name": "Boardwalk Parking",
+        "Slug": "santa-cruz-beach-parking-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06f4c518a5eccabe25b68",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:30:04 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:09:47 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:09:47 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01928615",
+        "Latitude": "36.96519169",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00617866,
+          33.6530626
+        ]
+      },
+      "properties": {
+        "Name": "Broad Street Oyster Company",
+        "Slug": "broad-street-oyster-company",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f944fbb61570f55e8845",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:40:36 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Tue Mar 18 2025 04:40:36 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Tue Mar 18 2025 04:40:36 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00617866",
+        "Latitude": "33.6530626",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02462663,
+          36.9628883
+        ]
+      },
+      "properties": {
+        "Name": "Cowell Beach Parking",
+        "Slug": "santa-cruz-beach-cowell-beach-parking",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df90f99570ab4b01a82fe1",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:41:29 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:10:46 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:10:46 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02462663",
+        "Latitude": "36.9628883",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00200215,
+          33.65703056
+        ]
+      },
+      "properties": {
+        "Name": "Duke's Huntington Beach",
+        "Slug": "dukes-huntington-beach",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d0c9f117b3cfacd228eb77",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 11 2025 23:40:33 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Wed Mar 12 2025 04:25:54 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Wed Mar 12 2025 04:25:54 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00200215",
+        "Latitude": "33.65703056",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00116326,
+          33.65567892
+        ]
+      },
+      "properties": {
+        "Name": "Dwight's Beach Concession",
+        "Slug": "dwights-beach-concession",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8faa239315e3b47e1045b",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:46:26 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Tue Mar 18 2025 04:46:26 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Tue Mar 18 2025 04:46:26 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00116326",
+        "Latitude": "33.65567892",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0198606,
+          36.95997251
+        ]
+      },
+      "properties": {
+        "Name": "Firefish Grill",
+        "Slug": "santa-cruz-wharf-firefish-grill",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8fa38691b5a868a62884",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:35:47 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:35:47 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:35:47 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.0198606",
+        "Latitude": "36.95997251",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01938532,
+          36.95964287
+        ]
+      },
+      "properties": {
+        "Name": "Gilda's",
+        "Slug": "santa-cruz-wharf-gildas",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8f4e8691b5a868a5b7c2",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:34:22 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:34:22 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:34:22 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01938532",
+        "Latitude": "36.95964287",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00418223,
+          33.65524915
+        ]
+      },
+      "properties": {
+        "Name": "Huntington Beach Pier",
+        "Slug": "huntington-beach-pier",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67cfc83a5eb8ae01d4473b22",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 11 2025 05:20:58 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Wed Mar 12 2025 04:30:18 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Wed Mar 12 2025 04:30:18 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00418223",
+        "Latitude": "33.65524915",
+        "Category": "Pier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02322826,
+          36.96272519
+        ]
+      },
+      "properties": {
+        "Name": "Ideal Bar & Grill",
+        "Slug": "santa-cruz-wharf-ideal-bar-grill",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6d55751dd27977f81ead",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:09:25 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:32:55 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:32:55 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02322826",
+        "Latitude": "36.96272519",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99617952,
+          33.6526719
+        ]
+      },
+      "properties": {
+        "Name": "Jack's Beach Concession",
+        "Slug": "jacks-beach-concession",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df46da247f9581f277a547",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:25:14 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sat Mar 22 2025 23:25:14 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sat Mar 22 2025 23:25:14 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99617952",
+        "Latitude": "33.6526719",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02421262,
+          36.96350679
+        ]
+      },
+      "properties": {
+        "Name": "Kianti's Pizza & Pasta",
+        "Slug": "santa-cruz-beach-kiantis-pizza-pasta",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e07242e3933af682f040bb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:42:42 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:42:42 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:42:42 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02421262",
+        "Latitude": "36.96350679",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99879683,
+          33.65437933
+        ]
+      },
+      "properties": {
+        "Name": "Kokomo's Surfside Grill",
+        "Slug": "kokomos-surfside-grill",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df43dd8179811c8c1c9ef7",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:12:29 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sat Mar 22 2025 23:12:29 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sat Mar 22 2025 23:12:29 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99879683",
+        "Latitude": "33.65437933",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67884846,
+          34.03489794
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower",
+        "Slug": "malibu-beach-lifeguard-tower",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c3cb1feda11130c3d091",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:42:51 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:42:51 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:42:51 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67884846",
+        "Latitude": "34.03489794",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0031989,
+          33.65525155
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 1",
+        "Slug": "huntington-city-beach-lifeguard-tower-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67cfb2e83ec21478bb98ded6",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 11 2025 03:50:00 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.0031989",
+        "Latitude": "33.65525155",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02387584,
+          36.96222325
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 1",
+        "Slug": "santa-cruz-beach-lifeguard-tower-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6b02cb3222eec73c9db1",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 01:59:30 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 01:59:30 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 01:59:30 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02387584",
+        "Latitude": "36.96222325",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00798412,
+          33.6594699
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 10",
+        "Slug": "huntington-city-beach-lifeguard-tower-10",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f751f9810e48c1f67beb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:32:17 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00798412",
+        "Latitude": "33.6594699",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99547218,
+          33.6505476
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 11",
+        "Slug": "huntington-city-beach-lifeguard-tower-11",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d1101604e440dcca533407",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Wed Mar 12 2025 04:39:50 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99547218",
+        "Latitude": "33.6505476",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00940765,
+          33.6606744
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 12",
+        "Slug": "huntington-city-beach-lifeguard-tower-12",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f7795f1ed6f0f6a005bf",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:32:57 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00940765",
+        "Latitude": "33.6606744",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99398514,
+          33.649821
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 13",
+        "Slug": "huntington-city-beach-lifeguard-tower-13",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8c75a548c3da2255bd55b",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 01:07:38 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99398514",
+        "Latitude": "33.649821",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01122733,
+          33.66217706
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 14",
+        "Slug": "huntington-city-beach-lifeguard-tower-14",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f7995f1ed6f0f6a03351",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:33:29 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01122733",
+        "Latitude": "33.66217706",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99244142,
+          33.64868535
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 15",
+        "Slug": "huntington-city-beach-lifeguard-tower-15",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8c7a14a083893d4cc826f",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 01:08:49 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99244142",
+        "Latitude": "33.64868535",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01276222,
+          33.6634004
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 16",
+        "Slug": "huntington-city-beach-lifeguard-tower-16",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f7ba36b5d56f7bc9664c",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:34:02 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01276222",
+        "Latitude": "33.6634004",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9910546,
+          33.64776123
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 17",
+        "Slug": "huntington-city-beach-lifeguard-tower-17",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8c80dbaf5109bbda8cff2",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 01:10:37 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.9910546",
+        "Latitude": "33.64776123",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.014374,
+          33.66471559
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 18",
+        "Slug": "huntington-city-beach-lifeguard-tower-18",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f7e336b5d56f7bc999bc",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:34:43 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.014374",
+        "Latitude": "33.66471559",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98943856,
+          33.64658124
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 19",
+        "Slug": "huntington-city-beach-lifeguard-tower-19",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f5a843a7933fd9bddb5a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:25:12 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.98943856",
+        "Latitude": "33.64658124",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00393818,
+          33.65593552
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 2",
+        "Slug": "huntington-city-beach-lifeguard-tower-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f6bcecb4bca19932502c",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:29:48 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00393818",
+        "Latitude": "33.65593552",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02072886,
+          36.96293116
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 2",
+        "Slug": "santa-cruz-beach-lifeguard-tower-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6b702372322464c5710a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:01:20 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 02:01:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 02:01:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02072886",
+        "Latitude": "36.96293116",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01611897,
+          33.66624705
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 20",
+        "Slug": "huntington-city-beach-lifeguard-tower-20",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df540fc964252d0345cf2a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:21:35 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:21:35 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:21:35 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01611897",
+        "Latitude": "33.66624705",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01768618,
+          33.66747751
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 22",
+        "Slug": "huntington-city-beach-lifeguard-tower-22",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df543737ce19f65f311d11",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:22:15 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:22:15 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:22:15 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01768618",
+        "Latitude": "33.66747751",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.02863358,
+          33.67611629
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 28",
+        "Slug": "huntington-city-beach-lifeguard-tower-28",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df5549f4dc699faed79ed3",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:26:49 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:26:49 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:26:49 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.02863358",
+        "Latitude": "33.67611629",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00159232,
+          33.65432337
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 3",
+        "Slug": "huntington-city-beach-lifeguard-tower-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d10ebff54306d3a1607575",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Wed Mar 12 2025 04:34:07 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00159232",
+        "Latitude": "33.65432337",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01829324,
+          36.96330106
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 3",
+        "Slug": "santa-cruz-beach-lifeguard-tower-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6c5e13fb82098208aceb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:05:18 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 02:05:18 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 02:05:18 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01829324",
+        "Latitude": "36.96330106",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00466467,
+          33.6565125
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 4",
+        "Slug": "huntington-city-beach-lifeguard-tower-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f6e85f1ed6f0f69f448a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:30:32 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00466467",
+        "Latitude": "33.6565125",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01625058,
+          36.96352282
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 4",
+        "Slug": "santa-cruz-beach-lifeguard-tower-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6c92751dd27977f753fb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:06:10 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 02:06:10 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 02:06:10 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01625058",
+        "Latitude": "36.96352282",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0000493,
+          33.65334892
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 5",
+        "Slug": "huntington-city-beach-lifeguard-tower-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d10f0b4168622f5b0d833c",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Wed Mar 12 2025 04:35:23 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.0000493",
+        "Latitude": "33.65334892",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01416274,
+          36.96358339
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 5",
+        "Slug": "santa-cruz-beach-lifeguard-tower-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6cc750eac785ceeed650",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:07:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 02:07:03 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 02:07:03 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01416274",
+        "Latitude": "36.96358339",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00560261,
+          33.65733282
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 6",
+        "Slug": "huntington-city-beach-lifeguard-tower-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f713f053ad0365bb2a22",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:31:15 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00560261",
+        "Latitude": "33.65733282",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99857682,
+          33.65235661
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 7",
+        "Slug": "huntington-city-beach-lifeguard-tower-7",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d10f427fc4263dcee84eed",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Wed Mar 12 2025 04:36:18 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99857682",
+        "Latitude": "33.65235661",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00669811,
+          33.65834669
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 8",
+        "Slug": "huntington-city-beach-lifeguard-tower-8",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f734bc76235fe76fafa8",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:31:48 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00669811",
+        "Latitude": "33.65834669",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99706454,
+          33.65142285
+        ]
+      },
+      "properties": {
+        "Name": "Lifeguard Tower 9",
+        "Slug": "huntington-city-beach-lifeguard-tower-9",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d10fbf61f1d97e780b0a78",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Wed Mar 12 2025 04:38:23 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99706454",
+        "Latitude": "33.65142285",
+        "Category": "Lifeguard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6756279,
+          34.03564135
+        ]
+      },
+      "properties": {
+        "Name": "Malibu Farm Pier Cafe",
+        "Slug": "malibu-beach-malibu-farm-pier-cafe",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c200985e512e05af64ec",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:35:12 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:35:12 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:35:12 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.6756279",
+        "Latitude": "34.03564135",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67667067,
+          34.03713387
+        ]
+      },
+      "properties": {
+        "Name": "Malibu Farm Restaurant",
+        "Slug": "malibu-beach-malibu-farm-restaurant",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c16a39eb19aedef9c7ad",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:32:42 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:32:42 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:32:42 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67667067",
+        "Latitude": "34.03713387",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.68468058,
+          34.03404524
+        ]
+      },
+      "properties": {
+        "Name": "Malibu Lagoon State Park Parking",
+        "Slug": "malibu-beach-malibu-lagoon-state-park-parking",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c2acfff37f7d5b32eb69",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:38:04 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:07:39 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:07:39 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.68468058",
+        "Latitude": "34.03404524",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67615497,
+          34.03645631
+        ]
+      },
+      "properties": {
+        "Name": "Malibu Pier",
+        "Slug": "malibu-beach-malibu-pier",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c1da9ddb02e399bc0039",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:34:34 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:34:34 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:34:34 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67615497",
+        "Latitude": "34.03645631",
+        "Category": "Pier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.66960987,
+          34.03897729
+        ]
+      },
+      "properties": {
+        "Name": "Nobu",
+        "Slug": "malibu-beach-nobu",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c310e760584113be2ed1",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:39:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:39:44 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:39:44 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.66960987",
+        "Latitude": "34.03897729",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01837702,
+          36.95895038
+        ]
+      },
+      "properties": {
+        "Name": "Olitas",
+        "Slug": "santa-cruz-wharf-olitas",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8ed8102a9920a0da5faa",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:32:24 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:32:24 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:32:24 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01837702",
+        "Latitude": "36.95895038",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02582305,
+          36.96507451
+        ]
+      },
+      "properties": {
+        "Name": "Pacific Point Market & Cafe",
+        "Slug": "pacific-point-market-cafe",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06e8d6882ba1b3f7d2cce",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:26:53 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:26:53 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:26:53 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02582305",
+        "Latitude": "36.96507451",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02305079,
+          36.96239149
+        ]
+      },
+      "properties": {
+        "Name": "Paradise Dogs",
+        "Slug": "santa-cruz-wharf-paradise-dogs",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df6d25e72f1bb42f5aa340",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 02:08:37 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:33:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:33:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02305079",
+        "Latitude": "36.96239149",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00112541,
+          33.65600284
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f9ec2c5d38edb1d4a464",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:43:24 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:12:39 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:12:39 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00112541",
+        "Latitude": "33.65600284",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00377143,
+          33.65787764
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8fa19fd3684565a69fc14",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:44:09 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:12:26 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:12:26 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00377143",
+        "Latitude": "33.65787764",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98953107,
+          33.64887877
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4a8ed47b1444c0332159",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:41:02 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:12:13 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:12:13 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.98953107",
+        "Latitude": "33.64887877",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9910355,
+          33.64989821
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4ab8eace584b4115a36a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:41:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:12:00 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:12:00 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.9910355",
+        "Latitude": "33.64989821",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99347895,
+          33.65147649
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4aed30ab2d1c634777fd",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:42:37 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:11:47 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:11:47 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99347895",
+        "Latitude": "33.65147649",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99740436,
+          33.65365121
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "huntington-city-beach-parking-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4b1737ce19f65f26d688",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:43:19 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:11:34 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:11:34 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99740436",
+        "Latitude": "33.65365121",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02399631,
+          36.9624855
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df9049471904c15def9dd9",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:38:33 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:11:22 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:11:22 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02399631",
+        "Latitude": "36.9624855",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02358192,
+          36.96334774
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df90a8e797930b85c76c90",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:40:08 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:11:12 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:11:12 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02358192",
+        "Latitude": "36.96334774",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02491789,
+          36.96219894
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df9137e797930b85c814d5",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:42:31 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:10:36 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:10:36 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02491789",
+        "Latitude": "36.96219894",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0237046,
+          36.96400459
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df9183d99f14beabab5545",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:43:47 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:10:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:10:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.0237046",
+        "Latitude": "36.96400459",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02674812,
+          36.95170949
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06e5bc16f2237216810bf",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:26:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:10:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:10:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02674812",
+        "Latitude": "36.95170949",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01554979,
+          36.96538441
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-8",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e0702726c5422df259535e",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:33:43 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:09:22 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:09:22 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01554979",
+        "Latitude": "36.96538441",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01649128,
+          36.96503716
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-9",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e070c24d53eb7dbc4807a3",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:36:18 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:09:12 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:09:12 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01649128",
+        "Latitude": "36.96503716",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01459441,
+          36.96565991
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-10",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e070efc99922772beba200",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:37:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:09:02 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:09:02 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01459441",
+        "Latitude": "36.96565991",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02336719,
+          36.96423246
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-11",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e07278e98fa2779661c62e",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:43:36 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:41 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:41 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02336719",
+        "Latitude": "36.96423246",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02100846,
+          36.96511003
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-12",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e0729f98a89f10b0e2be05",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:44:15 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:33 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:33 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02100846",
+        "Latitude": "36.96511003",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02275815,
+          36.96382508
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "santa-cruz-beach-parking-13",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e072f4f6902f961108bd86",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:45:40 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:25 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:25 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02275815",
+        "Latitude": "36.96382508",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67567457,
+          34.03772075
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "malibu-beach-parking-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c2211b2f6428db762c6e",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:35:45 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:15 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:15 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67567457",
+        "Latitude": "34.03772075",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67933681,
+          34.03528138
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "malibu-beach-parking-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c24aad3933e197bc8203",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:36:26 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67933681",
+        "Latitude": "34.03528138",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.68509136,
+          34.03399455
+        ]
+      },
+      "properties": {
+        "Name": "Parking",
+        "Slug": "malibu-beach-parking-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c2d41f852a49dc0b1668",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:38:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:07:23 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:07:23 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.68509136",
+        "Latitude": "34.03399455",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00279724,
+          33.65687331
+        ]
+      },
+      "properties": {
+        "Name": "Picnic Area",
+        "Slug": "huntington-city-beach-picnic",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8fa6836193b2f267c4201",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:45:28 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00279724",
+        "Latitude": "33.65687331",
+        "Category": "Picnic area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6758117,
+          34.03819099
+        ]
+      },
+      "properties": {
+        "Name": "Pitu Bu",
+        "Slug": "malibu-beach-pitu-bu",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c271f2e4d022975d23e9",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:37:05 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:37:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:37:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.6758117",
+        "Latitude": "34.03819099",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00325477,
+          33.65720225
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67d8f9a078fd01ab960c6b5a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Tue Mar 18 2025 04:42:08 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00325477",
+        "Latitude": "33.65720225",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00188292,
+          33.65599825
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4212a7c14eb943840e29",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:04:50 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00188292",
+        "Latitude": "33.65599825",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99853565,
+          33.6542082
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df44592b0887a0e20ff43c",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:14:33 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99853565",
+        "Latitude": "33.6542082",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99649364,
+          33.65289316
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df46b46fa8ba84431ff634",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:24:36 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99649364",
+        "Latitude": "33.65289316",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.994066,
+          33.6515284
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df47e9e552a8d10f0b57fe",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:29:45 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.994066",
+        "Latitude": "33.6515284",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9913186,
+          33.64976388
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df492c247f9581f27a48c5",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:35:08 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.9913186",
+        "Latitude": "33.64976388",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98905626,
+          33.64831814
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-city-beach-restroom-7",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4a2946905535d8361936",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:39:21 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.98905626",
+        "Latitude": "33.64831814",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0065698,
+          33.659772
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-state-beach-restroom-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df50e1d773793ad47069b3",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:08:01 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:16:50 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:16:50 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.0065698",
+        "Latitude": "33.659772",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0096067,
+          33.66215991
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-state-beach-restroom-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df517c5f20ce141a809d66",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:10:36 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:17:04 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:17:04 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.0096067",
+        "Latitude": "33.66215991",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01316569,
+          33.66478058
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-state-beach-restroom-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df5202c964252d03432bdb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:12:50 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:17:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:17:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01316569",
+        "Latitude": "33.66478058",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01656288,
+          33.66725576
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "huntington-state-beach-restroom-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df52852fdf5128e4292073",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 00:15:01 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:17:34 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:17:34 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.01656288",
+        "Latitude": "33.66725576",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01794091,
+          36.95840673
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-wharf-restroom-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8e7313840e6e99d8252c",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:30:43 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:30:43 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:30:43 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01794091",
+        "Latitude": "36.95840673",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0178837,
+          36.95857787
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-wharf-restroom-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8eac57692c6f4aca1469",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:31:40 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:31:40 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:31:40 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.0178837",
+        "Latitude": "36.95857787",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02020033,
+          36.96018164
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-wharf-restroom-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8fee6d2956a4593e6165",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:37:02 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:37:02 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:37:02 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02020033",
+        "Latitude": "36.96018164",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02326134,
+          36.96279226
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-wharf-restroom-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df90276d2956a4593e9ffb",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:37:59 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:37:59 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:37:59 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02326134",
+        "Latitude": "36.96279226",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02293472,
+          36.96292762
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-beach-restroom-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df908acf5c64bb8793e47f",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:39:38 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:39:38 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:39:38 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02293472",
+        "Latitude": "36.96292762",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01371676,
+          36.96562629
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-beach-restroom-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e0713f374ea0ccbfb85062",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:38:23 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:08:52 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:08:52 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01371676",
+        "Latitude": "36.96562629",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01397743,
+          36.96516177
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-beach-restroom-7",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e071e88707ff2e4786c674",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:41:12 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:41:12 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:41:12 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01397743",
+        "Latitude": "36.96516177",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01398558,
+          36.96516863
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "santa-cruz-beach-restroom-8",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e0720c02c83e3528fb512d",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:41:48 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:41:48 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:41:48 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01398558",
+        "Latitude": "36.96516863",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67654642,
+          34.0372582
+        ]
+      },
+      "properties": {
+        "Name": "Restroom",
+        "Slug": "malibu-beach-restroom-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e1c1bc4481294d3e3280a0",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Mon Mar 24 2025 20:34:04 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Mon Mar 24 2025 20:34:04 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Mon Mar 24 2025 20:34:04 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.67654642",
+        "Latitude": "34.0372582",
+        "Category": "Restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01971764,
+          36.9598733
+        ]
+      },
+      "properties": {
+        "Name": "Riva Fish House",
+        "Slug": "santa-cruz-wharf-riva-fish-house",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8f790378b096d93ddd48",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:35:05 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:35:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:35:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01971764",
+        "Latitude": "36.9598733",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01512885,
+          36.96680147
+        ]
+      },
+      "properties": {
+        "Name": "Santa Cruz Boardwalk Parking Lots 2 & 3",
+        "Slug": "santa-cruz-beach-parking-7",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06fdb1a9341e97a0a6629",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:32:27 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Thu Mar 27 2025 01:09:33 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Thu Mar 27 2025 01:09:33 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01512885",
+        "Latitude": "36.96680147",
+        "Category": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02169981,
+          36.96140237
+        ]
+      },
+      "properties": {
+        "Name": "Santa Cruz Wharf",
+        "Slug": "santa-cruz-wharf",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8dee751dd279771df6ec",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:28:30 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:28:30 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:28:30 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02169981",
+        "Latitude": "36.96140237",
+        "Category": "Pier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02237476,
+          36.96351489
+        ]
+      },
+      "properties": {
+        "Name": "Sawasdee by the Sea",
+        "Slug": "santa-cruz-beach-sawasdee-by-the-sea",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df915fcab6660501ceb76a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:43:11 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:43:11 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:43:11 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02237476",
+        "Latitude": "36.96351489",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99107633,
+          33.649659
+        ]
+      },
+      "properties": {
+        "Name": "Shor",
+        "Slug": "shor",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df496546905535d8355099",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:36:05 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sat Mar 22 2025 23:36:05 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sat Mar 22 2025 23:36:05 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99107633",
+        "Latitude": "33.649659",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00348641,
+          33.65717083
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-1",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df40398e78c99b5c22596a",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 22:56:57 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00348641",
+        "Latitude": "33.65717083",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00150733,
+          33.655763
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-2",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df42994f2ebb01fa640bc7",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:07:05 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00150733",
+        "Latitude": "33.655763",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00071074,
+          33.65519539
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-3",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df42e1ddfe653fcf1c6a91",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:08:17 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-118.00071074",
+        "Latitude": "33.65519539",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99984365,
+          33.65464252
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-4",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df43348179811c8c1bebd4",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:09:40 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99984365",
+        "Latitude": "33.65464252",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99867286,
+          33.65403727
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-5",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df459752b98202575ca7ed",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:19:51 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99867286",
+        "Latitude": "33.65403727",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99755856,
+          33.65341976
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-6",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4639f8dbc72af8f7ee02",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:22:33 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99755856",
+        "Latitude": "33.65341976",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99641854,
+          33.65261824
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-7",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4680b828fec372146643",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:23:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99641854",
+        "Latitude": "33.65261824",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99502258,
+          33.65200043
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-8",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4719fdd3d929a435ceb4",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:26:17 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99502258",
+        "Latitude": "33.65200043",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99422324,
+          33.6514167
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-9",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df481a1b3361e16ae1c8cd",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:30:34 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:20 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99422324",
+        "Latitude": "33.6514167",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99238803,
+          33.65029442
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-10",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df48d830ab2d1c634527c9",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:33:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99238803",
+        "Latitude": "33.65029442",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99173211,
+          33.64980056
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-11",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df49009048b548f3cb6cec",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:34:24 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99173211",
+        "Latitude": "33.64980056",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99009098,
+          33.64884279
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-12",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df49a20d8e13634687ed8e",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:37:06 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99009098",
+        "Latitude": "33.64884279",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98926569,
+          33.64823647
+        ]
+      },
+      "properties": {
+        "Name": "Shower",
+        "Slug": "huntington-city-beach-shower-13",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4a04e01121b2181ba609",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:38:44 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 00:02:21 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.98926569",
+        "Latitude": "33.64823647",
+        "Category": "Showers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01858951,
+          36.95906462
+        ]
+      },
+      "properties": {
+        "Name": "Splash",
+        "Slug": "santa-cruz-wharf-splash",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8f25102a9920a0daae53",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:33:41 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:33:41 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:33:41 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01858951",
+        "Latitude": "36.95906462",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01777806,
+          36.958264
+        ]
+      },
+      "properties": {
+        "Name": "Stagnaro Brothers Seafood",
+        "Slug": "santa-cruz-wharf-stagnaro-brothers-seafood",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8e5457692c6f4ac9ad2b",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:30:12 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:32:35 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:32:35 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01777806",
+        "Latitude": "36.958264",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02607782,
+          36.95324247
+        ]
+      },
+      "properties": {
+        "Name": "Steamer Lane Supply",
+        "Slug": "santa-cruz-beach-steamer-lane-supply",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67e06e1fb80628471e7507f7",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 20:25:03 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 20:25:03 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 20:25:03 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02607782",
+        "Latitude": "36.95324247",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02306596,
+          36.96318209
+        ]
+      },
+      "properties": {
+        "Name": "The Picnic Basket",
+        "Slug": "santa-cruz-beach-the-picnic-basket",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df906838b9b087bc74080b",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:39:04 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:39:04 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:39:04 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.02306596",
+        "Latitude": "36.96318209",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99393721,
+          33.65137641
+        ]
+      },
+      "properties": {
+        "Name": "Wheel Fun Rentals",
+        "Slug": "wheel-fun-rentals",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4897e98fa27796133835",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:32:39 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sat Mar 22 2025 23:32:39 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sat Mar 22 2025 23:32:39 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.99393721",
+        "Latitude": "33.65137641",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01998588,
+          36.96005838
+        ]
+      },
+      "properties": {
+        "Name": "Woodie's Cafe",
+        "Slug": "santa-cruz-wharf-woodies-cafe",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df8fc8e797930b85c648a3",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sun Mar 23 2025 04:36:24 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sun Mar 23 2025 04:36:24 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sun Mar 23 2025 04:36:24 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-122.01998588",
+        "Latitude": "36.96005838",
+        "Category": "Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98866996,
+          33.6481485
+        ]
+      },
+      "properties": {
+        "Name": "Zack's Too",
+        "Slug": "zacks-too",
+        "Collection ID": "6786de91c5b6dbbb511c16df",
+        "Locale ID": "678661730ea760533db7153c",
+        "Item ID": "67df4a5b46905535d8364444",
+        "Archived": "false",
+        "Draft": "false",
+        "Created On": "Sat Mar 22 2025 23:40:11 GMT+0000 (Coordinated Universal Time)",
+        "Updated On": "Sat Mar 22 2025 23:40:11 GMT+0000 (Coordinated Universal Time)",
+        "Published On": "Sat Mar 22 2025 23:40:11 GMT+0000 (Coordinated Universal Time)",
+        "Longitude": "-117.98866996",
+        "Latitude": "33.6481485",
+        "Category": "Food"
+      }
+    }
+  ]
+}

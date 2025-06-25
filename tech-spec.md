@@ -1,0 +1,62 @@
+Salty Map Application: Technical SpecificationVersion: 1.0
+Date: June 17, 2025
+
+1. Introduction 
+1.1. Project Overview
+This document outlines the technical specification for the Salty Map Application, a web-based, interactive mapping application designed to display geographical data, specifically focusing on beaches and points of interest (POIs). The application is built with vanilla JavaScript, employing a modular architecture to separate concerns. It uses Mapbox GL JS for rendering interactive maps and features a dynamic UI that responds to user interactions and map state.
+1.2. Purpose
+The purpose of this specification is to provide a comprehensive technical guide for developers, project managers, and stakeholders. It details the system architecture, module functionalities, data flow, and key implementation details of the application.
+1.3. Technology Stack
+Core Language: JavaScript (ES6 Modules)
+Mapping Library: Mapbox GL JS
+Styling: Inline CSS and dynamic styling via JavaScript
+Architecture: Modular, Controller-based pattern
+
+2. System Architecture
+The application follows a modular design, separating logic into distinct controllers and services. This promotes maintainability, scalability, and separation of concerns.
+2.1. High-Level Diagram
++----------------+      +------------------+      +----------------+
+|   UI Events    |----->|  UIController    |<---->|                |
+| (clicks, etc.) |      +------------------+      |                |
++----------------+              ^                 |                |
+                                |                 |                |
+                                v                 |    AppState    |
++----------------+      +------------------+      | (Global State) |
+|   Map Events   |----->|  MapController   |<---->|                |
+| (zoom, pan)    |      +------------------+      |                |
++----------------+              ^                 |                |
+                                |                 +----------------+
+                                v
+                       +----------------+
+                       |    MockAPI     |
+                       | (Data Fetching)|
+                       +----------------+
+2.2. Core Components
+index.js (Entry Point): Initializes the application, loading all necessary modules and setting up global error handling.
+
+config.js (Configuration): A centralized module for all static configuration data, including API endpoints, map settings, styling rules, and DOM selectors.
+
+appState.js (State Management): A global singleton object that holds the application's state, including the map instance, current user selections, cached data, and UI state. It acts as the single source of truth
+
+mapController.js (Map Logic): Manages all aspects of the Mapbox map, including initialization, loading data sources, creating and styling layers, handling map-specific events (zoom, clicks), and managing popups.
+
+uiController.js (UI Logic): Manages all user interface elements outside of the map canvas. It handles sidebar navigation, renders lists of locations, displays detail views, and responds to user interactions.
+
+mockAPI.js (Data Service): Simulates a backend API for fetching detailed information about locations. In a production environment, this would be replaced with actual API calls.
+
+utils.js (Utilities): Provides common, reusable functions like debouncing and responsive layout checks.3. Module Breakdown
+
+3.1. index.js - Application Entry Point
+Purpose: Orchestrates the initialization of the application.
+Key Functions: 
+Imports all core modules. 
+Listens for the DOMContentLoaded event to begin execution.
+Initializes UIController and MapController in sequence.
+Sets up global references (window.UIController, etc.) for inter-module communication, noted as a temporary solution.
+Establishes global error handlers for error and unhandledrejection events.
+3.2. config.js - Configuration ModulePurpose: To provide a single, easily modifiable source for all application settings.
+Data Structure:
+MAP: Mapbox access token, style URL, initial camera positions (desktop vs. mobile), zoom levels, and mobile breakpoint.
+API: Base URLs for data sources (map-config.json, salty-beaches.geojson).
+WEBFLOW: Project-specific IDs (not currently used by the core logic but available).
+STYLING: A comprehensive object defining the visual appearance of map layers.COLORS: Hex codes for different feature types (State, Region, Beach, POI).CIRCLES & TEXT: Defines size, opacity, and other properties for map symbols and labels using simple presets ('small', 'medium', 'large').SIZE_PRESETS: Maps the simple preset names to concrete pixel values for different zoom stops (min, mid, max), allowing for smooth scaling.ZOOM_RANGES: Defines the zoom levels at which different styling presets are active.SELECTORS: A map of semantic names to CSS selectors for key DOM elements, decoupling the JS from specific HTML IDs or classes.UI: Animation and timing constants (e.g., map fly speed, render delay).3.3. appState.js - Application StatePurpose: To act as the single source of truth for the application's dynamic data.Data Structure:map: Holds the Mapbox map instance once initialized.currentSelection: Tracks the currently selected item (id, type, and the GeoJSON feature).cache: Stores fetched data to prevent redundant API calls. Includes config, geojsonData, and Map objects for beachDetails and weatherData.ui: Holds the current state of the user interface, such as the active sidebar panel (currentSidebar) and whether the view is mobile (isMobile).Key Methods:setSelection(type, id, feature): Updates the currentSelection and triggers the UIController to show the detail view.clearSelection(): Resets the currentSelection.3.4. mapController.js - Map ControllerPurpose: Encapsulates all logic related to the Mapbox map.Key Functions & Logic:init():Fetches the map-config.json and salty-beaches.geojson data.Initializes the Mapbox map instance with settings from config.js.Stores the map instance and fetched data in AppState.Sets up a load event listener to begin adding assets, layers, and event handlers.loadMapAssets(): Dynamically creates a 'beach-icon' using the Canvas API and adds it to the map's image sprite.setupLayers(config, geojsonData):Iterates through the levels defined in map-config.json.For each level, it determines if the data should be grouped (e.g., by state or region) using createGroupedData.Adds a Mapbox source for the level's data.Adds corresponding layers (circle or symbol for points, symbol for labels, and symbol for counts) with dynamic styling derived from Config.STYLING.createSizeExpression(): A powerful utility that translates the simple size presets (e.g., 'large') from config.js into complex Mapbox interpolation expressions for smooth scaling of circles and text based on zoom level.updateVisibleLayers():Triggered on moveend (pan/zoom).Determines the current map zoom level.Finds the "active" level from map-config.json whose minZoom and maxZoom range contains the current zoom.Toggles the visibility of all map layers, ensuring only the layers for the active level are visible.Triggers the UIController to re-render the sidebar list to match the visible features.handleItemClick(feature): Manages clicks on individual map items, flying to the location and updating the global selection state.3.5. uiController.js - UI ControllerPurpose: Manages the DOM elements outside the map.Key Functions & Logic:init(): Caches DOM elements specified in Config.SELECTORS and sets up event listeners.setupEventListeners(): Binds click handlers to navigation buttons (Home, List, Fullscreen, etc.).showSidebar(type): Controls the visibility of the different sidebar panels ('home', 'list', 'detail').renderGroupedList(levelId, name): Renders a list of grouped items (e.g., states) currently visible on the map.renderIndividualBeaches(): Renders a list of individual beaches currently visible on the map. It ensures features are unique before rendering.updateDetailSidebar():Triggered when AppState.setSelection() is called.Displays a loading state.Fetches detailed data for the selected item from MockAPI (checking a cache in AppState first).Renders the fetched details (images, description, amenities, weather) into the detail sidebar.3.6. mockAPI.js - Mock APIPurpose: To simulate a backend server for development purposes.Key Methods:fetchBeachDetails(beachId): Returns a promise that resolves with static, hard-coded beach data.fetchWeather(locationId): Returns a promise that resolves with randomly generated weather data.All methods include a simulated network delay using setTimeout.3.7. utils.js - Utility ModulePurpose: Provides generic, helper functions.Key Methods:isMobileView(): Checks window.innerWidth against the breakpoint in config.js.debounce(func, wait): Prevents a function from being called too frequently, used for resize and map moveend events.showLoading(element) / showError(element, message): Helper functions to render status messages inside a DOM element.4. Data Flow & User Interaction Scenarios4.1. Application Loadindex.js: DOMContentLoaded fires.UIController.init(): Caches DOM elements and sets up UI event listeners.MapController.init(): Fetches map-config.json and geojson.Mapbox map is initialized.map.on('load') fires.MapController.setupLayers(): Creates all layers (initially hidden) based on config.MapController.updateVisibleLayers(): Is called, checks the initial zoom level, and makes the appropriate "State" level layers visible.UIController.renderGroupedList(): Is called, rendering the list of states visible in the initial viewport.4.2. User Zooms In on the MapUser scrolls/zooms the map.Mapbox moveend event fires after the zoom is complete.MapController.updateVisibleLayers() is called (debounced).It checks the new zoom level (e.g., zoom 7).It finds the active level is now "Region". It hides the "State" layers and shows the "Region" layers.It calls UIController.renderGroupedList() to update the sidebar with a list of visible regions.4.3. User Clicks a Beach on the ListUIController: A click event listener on the list item fires.handleBeachListItemClick() is called.MapController.flyTo(): The map camera animates to the beach's coordinates.AppState.setSelection(): The application's state is updated with the selected beach's ID.This, in turn, calls UIController.updateDetailSidebar().UIController: Fetches beach details from MockAPI and renders them in the detail sidebar.MapController.showPopup(): A popup is shown on the map for the selected feature.5. External Dependencies & Data SourcesMapbox GL JS: The core mapping library. It must be included in the host HTML file.map-config.json: An external JSON file defining the map's zoom levels, grouping rules, and custom zoom behavior. This allows for changing the map's hierarchical structure without code changes.salty-beaches.geojson: A standard GeoJSON file containing the point data for all beaches, including their properties (Name, ID, etc.).6. Potential Improvements & RecommendationsDependency Injection: The current method of attaching controllers to the window object for inter-module communication is not ideal. A more robust solution like a simple event bus or passing module references during initialization would improve decoupling.Replace Mock API: For a production application, mockAPI.js should be replaced with a service that makes fetch requests to a real backend API.State Management: While appState.js works for this scale, a more complex application could benefit from a dedicated state management library (like Redux or Zustand) to manage side effects and data flow more predictably.Component-Based UI: The uiController.js manually builds HTML strings. Using a templating library or a component framework (like Lit, Svelte, or React) would make UI development more declarative and maintainable.Error Handling: Global error handlers are present, but in-module error handling could be more specific, providing more granular feedback to the user (e.g., "Failed to load weather" instead of a generic "Could not load details").Code Bundling: For production, a build tool (like Vite or Webpack) should be used to bundle the JavaScript modules, minify code, and optimize asset loading.

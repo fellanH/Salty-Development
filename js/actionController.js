@@ -2,11 +2,10 @@
 // ACTION CONTROLLER MODULE
 // =============================================================================
 
-import { Config } from './config.js';
-import { AppState } from './appState.js';
-import { Utils } from './utils.js';
-// We use window.MapController and window.UIController to avoid circular dependencies
-// These should be set on the window object in your main app entry point.
+import { Config } from "./config.js";
+import { AppState } from "./appState.js";
+import { Utils } from "./utils.js";
+import { EventBus } from "./eventBus.js";
 
 export const ActionController = {
   /**
@@ -18,13 +17,28 @@ export const ActionController = {
     const actionConfig = Config.EVENT_ACTIONS[actionName];
 
     if (!actionConfig || !actionConfig.actions) {
-      console.warn(`[ActionController] No action configured for '${actionName}'.`);
+      console.warn(
+        `[ActionController] No action configured for '${actionName}'.`
+      );
       return;
     }
 
-    console.log(`[ActionController] Executing action: '${actionName}'`, context);
+    console.log(
+      `[ActionController] Executing action: '${actionName}'`,
+      context
+    );
 
-    actionConfig.actions.forEach(action => {
+    // If context doesn't have feature, get it from the dataset.
+    // This is the single point where we resolve the clicked item to its data.
+    if (!context.feature && context.target) {
+      const { entityType, featureId } = context.target.dataset;
+      if (entityType && featureId) {
+        context.feature = AppState.cache.visibleFeatures.get(featureId);
+        context.entityType = entityType;
+      }
+    }
+
+    actionConfig.actions.forEach((action) => {
       this.runAction(action, context);
     });
   },
@@ -35,51 +49,52 @@ export const ActionController = {
    * @param {object} context - The context for this execution.
    */
   runAction(action, context) {
-    const { feature } = context;
+    const { feature, entityType } = context;
 
     switch (action.type) {
-      case 'FLY_TO':
+      case "FLY_TO":
         if (feature && feature.geometry) {
-          window.MapController.flyTo(feature.geometry.coordinates, action.zoomLevel, action.speed);
+          EventBus.publish("map:flyTo", {
+            coordinates: feature.geometry.coordinates,
+            zoom: action.zoomLevel,
+            speed: action.speed,
+          });
         }
         break;
 
-        case 'selectState':
-        if (feature && feature.geometry) {
-          window.MapController.flyTo(feature.geometry.coordinates, action.zoomLevel, action.speed);
-        }
-        break;
-
-      case 'FLY_TO_DEFAULT_POSITION':
-        const position = Utils.isMobileView() ? Config.MAP.MOBILE_START_POSITION : Config.MAP.DESKTOP_START_POSITION;
+      case "FLY_TO_DEFAULT_POSITION":
+        const position = Utils.isMobileView()
+          ? Config.MAP.MOBILE_START_POSITION
+          : Config.MAP.DESKTOP_START_POSITION;
         const zoom = Config.MAP.DEFAULT_ZOOM;
-        window.MapController.flyTo(position, zoom);
+        EventBus.publish("map:flyTo", { coordinates: position, zoom: zoom });
         break;
 
-      case 'UPDATE_APP_STATE':
-        if (feature) {
-          const entityType = context.entityType; // Assumes entityType is passed in context
-          const entityId = feature.properties['Item ID'] || feature.properties.id || feature.properties.NAME;
+      case "UPDATE_APP_STATE":
+        if (feature && entityType) {
+          const entityId = Utils.getFeatureEntityId(feature);
           AppState.setSelection(entityType, entityId, feature);
         }
         break;
 
-      case 'SHOW_SIDEBAR':
-        window.UIController.showSidebar(action.sidebar);
+      case "SHOW_SIDEBAR":
+        EventBus.publish("ui:showSidebar", { sidebar: action.sidebar });
         break;
 
-      case 'SHOW_POPUP':
+      case "SHOW_POPUP":
         if (feature) {
-          setTimeout(() => window.MapController.showPopup(feature), action.delay || 0);
+          EventBus.publish("map:showPopup", { feature, delay: action.delay });
         }
         break;
-        
-      case 'TOGGLE_FULLSCREEN':
-          window.UIController.toggleFullscreen();
-          break;
+
+      case "TOGGLE_FULLSCREEN":
+        EventBus.publish("ui:toggleFullscreen");
+        break;
 
       default:
-        console.warn(`[ActionController] Unknown action type: '${action.type}'`);
+        console.warn(
+          `[ActionController] Unknown action type: '${action.type}'`
+        );
     }
-  }
-}; 
+  },
+};

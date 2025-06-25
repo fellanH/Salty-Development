@@ -2,28 +2,31 @@
 // APPLICATION STATE MODULE
 // =============================================================================
 
+import { EventBus } from "./eventBus.js";
+
 export const AppState = {
   // Core application state
   map: null,
   currentSelection: {
     id: null,
     type: null, // 'beach' or 'poi'
-    feature: null
+    feature: null,
   },
-  
+
   // Data cache
   cache: {
     config: null,
     geojsonData: null,
     beachDetails: new Map(),
-    weatherData: new Map()
+    weatherData: new Map(),
+    visibleFeatures: new Map(),
   },
 
   // UI state
   ui: {
-    currentSidebar: 'home', // 'home', 'list', 'detail'
+    currentSidebar: "home", // 'home', 'list', 'detail'
     isMobile: false,
-    isLoading: false
+    isLoading: false,
   },
 
   /**
@@ -33,26 +36,22 @@ export const AppState = {
    * @param {Object} feature - The GeoJSON feature
    */
   setSelection(type, id, feature = null) {
-    if (this.currentSelection.id === id && this.currentSelection.type === type) {
+    if (
+      this.currentSelection.id === id &&
+      this.currentSelection.type === type
+    ) {
       return; // Avoid unnecessary updates
     }
-    
+
     this.currentSelection = { id, type, feature };
-    // Note: UIController import will be handled in the main app
-    if (window.UIController) {
-      window.UIController.updateDetailSidebar();
-    }
+    EventBus.publish("state:selectionChanged", this.currentSelection);
   },
 
   /**
    * Clear the current selection
    */
   clearSelection() {
-    this.currentSelection = { id: null, type: null, feature: null };
-    // Note: UIController import will be handled in the main app
-    if (window.UIController) {
-      window.UIController.hideDetailSidebar();
-    }
+    this.setSelection(null, null, null);
   },
 
   /**
@@ -61,5 +60,5 @@ export const AppState = {
    */
   updateUI(updates) {
     this.ui = { ...this.ui, ...updates };
-  }
-}; 
+  },
+};
